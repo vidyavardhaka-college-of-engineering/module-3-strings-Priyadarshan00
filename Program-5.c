@@ -16,7 +16,11 @@ int main()
   printf("Input a string: ");
   scanf("%s", s);
 
-  while (s[c] != '\0') {
+  while (s[c] != '\0') 
+  {
+  if (s[c]=='a'
+
+  
                                //place logic to find the vowel
   }
 
